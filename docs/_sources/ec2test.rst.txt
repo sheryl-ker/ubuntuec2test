@@ -1,0 +1,7 @@
+ec2test module
+==============
+
+.. automodule:: ec2test
+   :members:
+   :undoc-members:
+   :show-inheritance:
